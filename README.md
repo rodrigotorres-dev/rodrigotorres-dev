@@ -22,6 +22,6 @@ Gosto de aprender rápido, criar soluções objetivas e melhorar processos usand
 
 ## 📫 Como me encontrar
 - GitHub: github.com/rodrigotorres-dev
-- *(adicione e-mail ou linkedin se quiser)*
+- LinkedIn: linkedin.com/in/rodrigotorresdev
 
 Sinta-se à vontade para explorar meus repositórios!
